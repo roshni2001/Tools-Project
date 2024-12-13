@@ -15,6 +15,7 @@ Steps:
 13) Evaluation Metrics
 14) Train & Evaluate Model (RF Standalone)
 15) Train & Evaluate Model (XGB Standalone)
+    
 **ALTERNATIVE METHODOLOGY:**
 1) Data augmentation using SMOTE
 2) Random Sampling (To increase size of dataset upto 12,000)
